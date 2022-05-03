@@ -1,7 +1,7 @@
 # Simulating stock prices using Geometric Brownian Motion and the Monte Carlo method
 
 #### Last Update 3rd May, 2022 ####
-#### Francesco Castagna, francesco.castagna@yahoo.com
+#### Francesco Castagna, castagnafrancesco@yahoo.com
 ####
 
 
